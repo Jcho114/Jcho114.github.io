@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1ca6d10.css",
+    "main.js": "/static/js/main.81284b4c.js",
+    "static/media/headshot-new.jpg": "/static/media/headshot-new.4be5c5548c0b458a87c7.jpg",
+    "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
+    "static/media/electron.png": "/static/media/electron.b22adaa49b103395d78a.png",
+    "static/media/selenium.png": "/static/media/selenium.8acd00a91ebc15e2633e.png",
+    "static/media/sophomore-resume-joseph-cho.pdf": "/static/media/sophomore-resume-joseph-cho.3c155d049e4829896706.pdf",
+    "static/media/python.png": "/static/media/python.f9dc70303b81180b774d.png",
+    "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/c.png": "/static/media/c.c0da8156a8d17281c29e.png",
+    "static/media/logo-without-background.png": "/static/media/logo-without-background.6f8175d12e6b61438d86.png",
+    "static/media/html.png": "/static/media/html.eebc3fbfbde4b2abd9db.png",
+    "static/media/java.png": "/static/media/java.66c01e0c39bbdd9ae552.png",
+    "static/media/planet-terp.png": "/static/media/planet-terp.893d6fb307ef70068067.png",
+    "static/media/twilio.png": "/static/media/twilio.173f08dd72510081ff10.png",
+    "static/media/express.png": "/static/media/express.b44f5a4b0ab040328aac.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/javascript.png": "/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "static/media/firebase.svg": "/static/media/firebase.e6583a29712875c8977afcba1d0b6883.svg",
+    "static/media/cheerio.svg": "/static/media/cheerio.532aae07ce22228f9029c133ed65b664.svg",
+    "index.html": "/index.html",
+    "main.c1ca6d10.css.map": "/static/css/main.c1ca6d10.css.map",
+    "main.81284b4c.js.map": "/static/js/main.81284b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ca6d10.css",
+    "static/js/main.81284b4c.js"
+  ]
+}
