@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ae2a1f16.css",
-    "main.js": "/static/js/main.a35581f7.js",
+    "main.js": "/static/js/main.3fec2ecf.js",
     "static/media/headshot-new.png": "/static/media/headshot-new.add284b22de2d9a7bf1a.png",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
     "static/media/electron.png": "/static/media/electron.b22adaa49b103395d78a.png",
     "static/media/selenium.png": "/static/media/selenium.8acd00a91ebc15e2633e.png",
-    "static/media/sophomore-resume-joseph-cho.pdf": "/static/media/sophomore-resume-joseph-cho.b83c1772965a3e219062.pdf",
+    "static/media/joseph-cho-resume-june-2023.pdf": "/static/media/joseph-cho-resume-june-2023.b255e771c9cb5b1ad55b.pdf",
     "static/media/python.png": "/static/media/python.f9dc70303b81180b774d.png",
     "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/c.png": "/static/media/c.c0da8156a8d17281c29e.png",
@@ -21,10 +21,10 @@
     "static/media/cheerio.svg": "/static/media/cheerio.532aae07ce22228f9029c133ed65b664.svg",
     "index.html": "/index.html",
     "main.ae2a1f16.css.map": "/static/css/main.ae2a1f16.css.map",
-    "main.a35581f7.js.map": "/static/js/main.a35581f7.js.map"
+    "main.3fec2ecf.js.map": "/static/js/main.3fec2ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2a1f16.css",
-    "static/js/main.a35581f7.js"
+    "static/js/main.3fec2ecf.js"
   ]
 }
